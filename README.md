@@ -10,5 +10,5 @@ In the end, **XGBoost machine learning algorithm ** was selected for its suitabi
 
 The model achieved a **95% ** accuracy.
 
-A user-friendly web interface was created using Flask, HTML, CSS, and Bootstrap to deploy the AI application and make it accessible to farmers over the internet.
+A user-friendly web interface is being created at the moment using Flask, HTML, CSS, and Bootstrap to deploy the AI application and make it accessible to farmers over the internet. (ongoing work)
 
