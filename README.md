@@ -2,6 +2,8 @@
 
 ## Capstone project for Samsung Innovation Campus program partnered with UNDP.
 
+Goal: Developing an AI tool that offers suggestions for optimizing crop yields based on weather patterns, soil conditions, and historical data using ML and a recommendation system.
+
 The key objectives of the artificial intelligence application center around addressing critical challenges in agriculture and the contribution to Sustainable Development Goal 2 (Zero Hunger). The
 foremost aim is to empower farmers by providing tailored recommendations based on historical data, current weather patterns, and soil conditions, ultimately maximizing crop yields. The application is
 intended to enhance global food security by assisting farmers in choosing the most suitable crops for their specific conditions, fostering sustainable farming practices, and optimizing the use of resources.
