@@ -14,3 +14,4 @@ The model achieved a **95% ** accuracy.
 
 A user-friendly web interface is being created at the moment using Flask, HTML, CSS, and Bootstrap to deploy the AI application and make it accessible to farmers over the internet. (ongoing work)
 
+Further information on the project can be found in Project_Proposal and Concept_Note files.
